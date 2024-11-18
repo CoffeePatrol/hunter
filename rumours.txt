@@ -1,0 +1,45 @@
+Strategies
+Managing your active rumour
+
+Each guild hunter can offer the player an assignment from their list of rumours. They will provide the player with an assignment even if the player has already received an assignment from another hunter. Each hunter will remember which rumour they assigned to the player, so receiving an assignment from another hunter will not reset or erase the assignment they provided.
+
+However, only one rumour can be actively pursued at a time. The active rumour will be whichever one was most recently accepted by the player. The player can speak freely to the other guild hunters to switch their active rumour to one offered by them.
+
+For example: The player may get an assignment from Ornus, then immediately turn to Cervus to receive an assignment from her as well. Cervus' assignment will now be the active rumour. However, if the player prefers the assignment that was given by Ornus, they can speak to Ornus again to make his assignment active.
+
+Typically, a hunter will not offer the player a new assignment until the player completes the rumour they already offered. However, there are two options to bypass this: a complete reset and an individual reset.
+Complete reset
+
+Should a player find all of the rumours currently assigned to be undesirable, they can speak to Huntmaster Gilman to have all assignments reset. To do this, the player must have an assignment on offer from Gilman that is not currently active. When the player attempts to switch their active rumour to the one offered by Gilman, a prompt will appear asking players whether they wish to do his "old" rumour or a "brand new one". Selecting a "brand new one" will reset all other stored rumours. Players must then complete Gilman's new rumour before being able to receive any new rumours from the other hunters.
+Individual reset
+
+Players may also reroll a single rumour assignment without resetting all assignments across the entire guild. For players setting up a block list, please note that the rerolled rumour can not be stored as a "block", so this method has limited usefulness for that purpose.
+
+After receiving the undesirable rumour, players can reroll the assignment by switching their active rumour to another guild hunter, completing that one, then before receiving any new assignments, speaking to the original hunter again. The original hunter will now assign a new rumour. If the player switches their active rumour to another hunter before completing this new rumour, the hunter will revert to offering the original assignment.
+
+For example: A player speaks to Ornus and receives a Pyre Fox rumour. The player then speaks to Cervus, accepts her assignment and completes it. Before receiving another assignment from Cervus, the player speaks to Ornus again. Now, Ornus will offer a new assignment that is not Pyre Foxes. If the player completes this new rumour, Ornus will once again offer a new assignment. However, if the player does not complete it and instead switches their active rumour away from Ornus, Ornus will revert to offering Pyre Foxes. Undoing the new rumour in this way can sometimes be useful; such as, if the previous rumour was better in some way than the new rumour given by the above method, then the player could get the previous assignment back. Beyond that, there is likely limited utility with this specific mechanic.
+Toggling back-to-back rumours
+
+Players may toggle on and off the ability for hunters to assign the same rumour back-to-back by speaking to Guild Scribe Verity downstairs in the Hunters' Guild behind the bar. By default, back-to-back rumours are disabled.
+
+Players can use this to their advantage by toggling back-to-back rumours on after a desirable rumour assignment and then off again after an undesirable one. This will increase rumour completion and experience rates.
+Skipping quests
+
+Completion of the quest Eagles' Peak is required in order to receive box trapping assignments such as embertailed jerboas, red chinchompas and grey chinchompas. This means that players who have not completed Eagles' Peak effectively block these rumours without needing to use up any guild hunter blocks.
+
+Completion of the quest Bone Voyage is required in order to receive Herbiboar assignments. As with Eagles' Peak, this means that players who have not completed Bone Voyage effectively block Herbiboars without needing to use guild hunter blocks.
+
+Eagles' Peak is a prerequisite for the quest At First Light, which is required in order to access Master rumours, so players using this method will not be able to do Master rumours or to use Guild Hunter Wolf for an additional block. Despite losing access to Master rumours, this method still provides the best experience rates at all levels.
+
+Bone Voyage is not required for At First Light, so players who skip the quest will still be able to use Master rumours and leverage Guild Hunter Wolf as a block.
+
+Players who skip Eagles' Peak but not Bone Voyage should use Aco's block list from the recommended block lists below and use the extra block space to block either tecu salamanders or moonlight moths depending on preference. Players who skip Bone Voyage but not Eagles' Peak should use Teco's block list. Players who skipped both should use Teco's block list and use the extra block space to block sunlight moths.
+Blocking rumours
+
+Guild hunters will not assign a rumour already assigned by another guild hunter, which essentially "blocks" the rumour from being assigned by any other guild hunter. This allows players to build a block list of rumours by completing rumours for other guild hunters until an undesirable rumour is assigned, then leaving that assignment unfinished in order to prevent all other hunters from assigning it.
+
+Each guild hunter has a unique pool of possible rumour assignments, so for a block to be effective, the blocked rumour must be one that can be assigned by both the guild hunter used for the block and the hunter that the player uses for new assignments. This means constructing a specific block list requires some planning. Refer to the list of rumours to see where each guild hunter's rumour pool overlaps or use the recommended block lists.
+
+For example: A player who uses Guild Hunter Teco (Expert) for their new rumour assignments may wish to block Sabre-toothed kyatts from Teco's rumour pool. Referring to the list of rumours, we see that this rumour is also assigned by guild hunters Aco, Ornus and Gilman. The player can then complete rumours from any of these three hunters until one of them assigns Sabre-toothed Kyatts. Then the player can switch their active rumour back to Guild Hunter Teco and now Sabre-toothed kyatts will be blocked. Blocks will be saved until you ask for a new assignment from the hunter you stored a block on, or you reset all rumours with Huntmaster Gilman.
+
+Be careful to avoid accidentally resetting all assignments using Huntmaster Gilman as described above in the "complete reset" paragraph. This may be useful at the start of constructing a block list, but if done accidentally, it can erase all of your progress. Also, keep in mind the mechanic described above in the "individual reset" paragraph. Tasks received using this mechanic do not work as a block, so it may cause some confusion if you are not aware of it. 
