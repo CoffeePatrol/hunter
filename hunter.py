@@ -42,11 +42,11 @@ class HunterApp:
         region_frame.grid(row=2, column=0, columnspan=2, sticky=(tk.W, tk.E))
         
         for i, region in enumerate(self.regions):
-            var = tk.BooleanVar(value=(region == 'Misthalin/Karamja'))
+            var = tk.BooleanVar(value=(region in ['Misthalin/Karamja', 'Varlamore']))
             self.checkbox_vars[region] = var
             checkbox = ttk.Checkbutton(region_frame, text=region, variable=var)
             checkbox.grid(row=i//2, column=i%2, sticky=tk.W, padx=5)
-            if region == 'Misthalin/Karamja':
+            if region in ['Misthalin/Karamja', 'Varlamore']:
                 checkbox.state(['disabled'])
         
         # Define rumor givers and their level requirements
@@ -55,7 +55,7 @@ class HunterApp:
             'Adept(cervus)': 57,
             'Adept(ornus)': 57,
             'Expert(aco)': 72,
-            'expert(teco)': 72,
+            'xpert(teco)': 72,
             'Master(wolf)': 91
         }
         
